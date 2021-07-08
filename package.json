@@ -33,7 +33,7 @@
     "vue": "^2.5.16",
     "vue-class-component": "^6.2.0",
     "vue-property-decorator": "^7.0.0",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@types/d3": "^5.0.0",
